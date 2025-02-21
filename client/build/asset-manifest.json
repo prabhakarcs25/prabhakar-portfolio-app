@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4599e7a1.css",
+    "main.js": "/static/js/main.1064c3da.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/PRABHAKAR2025.pdf": "/static/media/PRABHAKAR2025.43dac851f71ad7e1f5bc.pdf",
+    "index.html": "/index.html",
+    "main.4599e7a1.css.map": "/static/css/main.4599e7a1.css.map",
+    "main.1064c3da.js.map": "/static/js/main.1064c3da.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4599e7a1.css",
+    "static/js/main.1064c3da.js"
+  ]
+}
